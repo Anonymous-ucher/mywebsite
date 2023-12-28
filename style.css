@@ -1,0 +1,31 @@
+body{
+    background-color:rgb(63, 63, 170);
+    animation:both;
+    line-height: 1.5rem;
+    color: #fff;
+    
+}
+
+header{
+
+    background-color: rgb(79, 91, 194);
+    background-position: 3%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+h2 {
+     background-color: cadetblue;
+     color: #fff;
+     text-align: center;
+     text-transform: uppercase;
+     text-decoration-color: azure;
+}
+p1 {
+    color:#fff;
+}
+
